@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"86bb4f0db8c1811b","type":"file","file":"DHBW/Technische Informatik/Zahlencodierung.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"4a7f53701cb2bd12","type":"file","file":"DHBW/Technische Informatik/Codierung.md","x":-520,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c765408a8a8b9add","fromNode":"4a7f53701cb2bd12","fromSide":"right","toNode":"86bb4f0db8c1811b","toSide":"left"}
+	]
+}

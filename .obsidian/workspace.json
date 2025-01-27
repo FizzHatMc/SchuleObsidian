@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0cee3700a31ff9f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe6ad0e3b5a8a43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd752722df8e28b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fad325802ff5902",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd2d206c7b07d24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f5cd55154cdac5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1da88b29180ed93e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vault",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23ea8af6fbc4b4a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.49999618530273
+  },
+  "right": {
+    "id": "f681a53b4f909c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "366c2aec44ba48bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a7c3e74e0b86ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DHBW/Web-Engineering/13.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 13.1"
+            }
+          },
+          {
+            "id": "440f8ae5f9743c41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DHBW/Web-Engineering/13.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13.1"
+            }
+          },
+          {
+            "id": "abc51ae14922acad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "142541df9a6a4069",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DHBW/Web-Engineering/13.1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 13.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "fd752722df8e28b4",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "DHBW/Mathe/23.1.md",
+    "DHBW/Theoretische Informatik/22.1.md",
+    "DHBW/Projektmanagment/Projekt.md",
+    "DHBW/Projektmanagment",
+    "DHBW/Theoretische Informatik/9.1 Übungsblatt 2.md",
+    "DHBW/Technische Informatik/Darstellung von nicht ganzen Zahlen.md",
+    "DHBW/Technische Informatik/Darstellung von negativen Zahlen.md",
+    "DHBW/Technische Informatik/Zahlencodierung.md",
+    "DHBW/Mathe",
+    "Pasted image 20250119165115.png",
+    "Pasted image 20250119163136.png",
+    "Pasted image 20250119163115.png",
+    "DHBW/Theoretische Informatik",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "create a link.md",
+    "DHBW/Technische Informatik/Codierung.md",
+    "DHBW/Web-Engineering/13.1.md",
+    "DHBW/Technische Informatik",
+    "DHBW/Web-Engineering",
+    "DHBW"
+  ]
+}

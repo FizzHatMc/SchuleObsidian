@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"65b162d6cb8040fa","type":"text","text":"Test\n","x":-125,"y":-140,"width":250,"height":60},
+		{"id":"e50508a8ab781e4c","type":"text","text":"Test","x":-375,"y":-20,"width":250,"height":60},
+		{"id":"94aa9872c8e554bd","type":"file","file":"DHBW/Technische Informatik/Codierung.md","x":240,"y":-40,"width":400,"height":400},
+		{"id":"503bd2069c624bac","x":-100,"y":-260,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1388e121e0b348fc","fromNode":"e50508a8ab781e4c","fromSide":"right","toNode":"65b162d6cb8040fa","toSide":"bottom"},
+		{"id":"bda1a10918451634","fromNode":"65b162d6cb8040fa","fromSide":"right","toNode":"94aa9872c8e554bd","toSide":"top"},
+		{"id":"a456114696f97991","fromNode":"65b162d6cb8040fa","fromSide":"top","toNode":"503bd2069c624bac","toSide":"bottom"}
+	]
+}
