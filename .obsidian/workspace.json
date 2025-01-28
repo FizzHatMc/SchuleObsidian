@@ -11,10 +11,14 @@
             "id": "fd752722df8e28b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DHBW/Technische Informatik/28.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "28.1"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vault",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,15 +165,18 @@
   },
   "active": "fd752722df8e28b4",
   "lastOpenFiles": [
-    "Welcome.md",
-    "DHBW/Mathe/23.1.md",
+    "DHBW/Technische Informatik/Zahlencodierung.md",
+    "DHBW/Technische Informatik/28.1.md",
     "DHBW/Theoretische Informatik/22.1.md",
+    "DHBW/Mathe/Übung.md",
+    "DHBW/Theoretische Informatik/3. Übungsblatt.md",
+    "DHBW/Mathe/23.1.md",
+    "Welcome.md",
     "DHBW/Projektmanagment/Projekt.md",
     "DHBW/Projektmanagment",
     "DHBW/Theoretische Informatik/9.1 Übungsblatt 2.md",
     "DHBW/Technische Informatik/Darstellung von nicht ganzen Zahlen.md",
     "DHBW/Technische Informatik/Darstellung von negativen Zahlen.md",
-    "DHBW/Technische Informatik/Zahlencodierung.md",
     "DHBW/Mathe",
     "Pasted image 20250119165115.png",
     "Pasted image 20250119163136.png",
