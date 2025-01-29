@@ -61,6 +61,10 @@ DADgHig
 DALANXlAXoAAABQSXk
 Das
 Direkter
+Designen
+Durch
+Dev
+Dauer
 Kompl
 KGgoAAAANSUhEUgAACM
 KbRAAAABAp
@@ -156,6 +160,10 @@ KyS
 Kn
 KL
 KR
+Kartenspiel
+Karten
+Kategorien
+Kilian
 Neutr
 NSoE
 NplMqhUOpNFoPD
@@ -294,6 +302,7 @@ NZmK
 Nx
 Nr
 Nicht
+Normal
 Morg
 MSqq
 MCnS
@@ -371,6 +380,9 @@ MihIt
 Mjg
 MgsAlSNqAgAAgFlXXLzv
 Mkvttq
+Monopoly
+Marcel
+Müller
 Asso
 AAAGUCAIAAABI
 AQAAAAAAAAAAAAbUWoCAAAAAAAAAACAjSg
@@ -477,6 +489,10 @@ Aussage
 Allquantor
 AE
 AI
+Aktion
+Aufgabe
+Aufgaben
+Auftraggeber
 Extremal
 ER
 ESDuwQxiq
@@ -536,6 +552,12 @@ EoTN
 EBAAAAAAAIJGoCAAAAAAAgkKgJAAAAAACAQKImAAAAAAAAAomaAAAAAAAACCRqAgAAAAAAIJCoCQAAAAAAgECiJgAAAAAAAAKJmgAAAAAAAAgkagIAAAAAACCQqAkAAAAAAIBAoiYAAAAAAAACiZoAAAAAAAAIJGoCAAAAAAAgkKgJAAAAAACAQKImAAAAAAAAAomaAAAAAAAACCRqAgAAAAAAIJCoCQAAAAAAgECiJgAAAAAAAAKJmgAAAAAAAAgkagIAAAAAACCQqAkAAAAAAIBAoiYAAAAAAAACiZoAAAAAAAAIJGoCAAAAAAAgkKgJAAAAAACAQKImAAAAAAAAAomaAAAAAAAACHLnzu
 ErkJggg
 Existenzquantor
+Ein
+Ereignissen
+Events
+Erfüllen
+Erster
+Entwurf
 data
 dW
 dR
@@ -711,6 +733,8 @@ die
 der
 da
 dann
+designen
+desto
 image
 iVBORw
 iAn
@@ -809,6 +833,7 @@ iXXSm
 iXFpevv
 iosTurmxXnb
 ist
+im
 png
 pNAAAAAAAAAAAAsBGlJgAAAAAAAAAAANiIUhMAAAAAAAAAAABsRKkJAAAAAAAAAAAANqLUBAAAAAAAAAAAABtRagIAAAAAAAAAAICNKDUBAAAAAAAAAADARpSaAAAAAAAAAAAAYCNKTQAAAAAAAAAAALARpSYAAAAAAAAAAADYiFITAAAAAAAAAAAAbESpCQAAAAAAAAAAADai
 pNAAAAAAAAAAAAsBGlJgAAAAAAAAAAANiIUhMAAAAAAAAAAABsRKkJAAAAAAAAAAAANqLUBAAAAAAAAAAAABtRagIAAAAAAAAAAICNNDU
@@ -902,6 +927,7 @@ pypQpI
 pfO
 pHvcu
 pgFgCryvQAAAAComNWV
+produzieren
 base
 bnfFNggAAACgE
 bsGCBSgAAsCvrj
@@ -1060,6 +1086,9 @@ bOeOz
 beY
 bE
 bHbWm
+bestimmten
+bewegen
+besser
 GvzAAAAAXNSR
 Gg
 Go
@@ -1154,6 +1183,11 @@ GHEXd
 GdfFBW
 Gw
 Gegeben
+Grafiken
+Ggf
+Gedruckte
+Game
+Geschätzte
 IArs
 IhSEwAAAAAAAAAAAGxEqQkAAAAAAAAAAAA
 Ib
@@ -1235,6 +1269,7 @@ IGoCAACAasvz
 II
 IE
 Indirekter
+Importieren
 QAAAARnQU
 QdcLgAbYCP
 Qx
@@ -1292,6 +1327,7 @@ QQAcBL
 QDaUmAADqy
 QfArZlMppMnT
 QEBASLw
+Quizfrage
 BAACxjwv
 BwAAAAAAAAAAAFqJUhMAAAAAAAAAAABsRKkJAAAAAAAAAAAANqLUBAAAAAAAAAAAABtRagIAAAAAAAAAAICNKDUBAAAAAAAAAADARpSaAAAAAAAAAAAAYCNKTQAAAAAAAAAAALARpSYAAAAAAAAAAADYiFITAAAAAAAAAAAAbESpCQAAAAAAAAAAADai
 BAYERHbvploBd
@@ -1370,6 +1406,13 @@ BRNMk
 BAFwLpSYAAADASb
 Begründung
 Beweis
+Brettspiel
+Brett
+Bilder
+Belohnung
+Beantworten
+Brainstorming
+Budget
 YQUAAAAJcEhZcwAAHYcAAB
 YssSagOd
 Ys
@@ -1677,6 +1720,7 @@ WdVVZhW
 WCuMrEtiFi
 WeZXEU
 Widerspruch
+Währung
 JYFTVvfjxzEz
 JOc
 JZKS
@@ -1782,6 +1826,9 @@ Jtq
 JAhsj
 JE
 JpPJu
+Jonathan
+Jonas
+Je
 TEISQkjCLlsoIItCgihKhARTkUUNaC
 TD
 TX
@@ -1884,6 +1931,10 @@ TfMQkWZBYD
 TxTDxN
 TND
 Teiler
+Transitiv
+Tabeltop
+Texte
+Team
 FtATev
 FqAgAAAAAAAAAAgI
 Fpdd
@@ -1955,6 +2006,9 @@ Fqcm
 FMJCQkqAdBIXl
 FLYFAHBpmpqaGhUCAADAooqKig
 Fhqauq
+Figuren
+Felder
+Fragen
 rVStX
 rl
 ryuMyD
@@ -2198,6 +2252,7 @@ nEjiNrKwscdunb
 ncfR
 nmXFucvzvDhrrUbj
 nicht
+nötig
 lzfK
 lpaUVlUKV
 lPn
@@ -2400,6 +2455,9 @@ siwX
 summe
 so
 symmetrisch
+sofern
+sich
+sammeln
 SZTCaTyczk
 SX
 SmpqakpKgcAAB
@@ -2502,6 +2560,14 @@ SOHVdKUAL
 SOb
 SXv
 Schritt
+Symmetrisch
+Simulator
+Scripting
+Stil
+Spieler
+Strafe
+Schneider
+Scheufler
 mc
 mdhynZ
 mLy
@@ -2621,6 +2687,8 @@ mAAAAwHmtXr
 mqZllyrL
 mVRxHSZzU
 mit
+möglich
+mehr
 fPedoampqPAAAAAAAAAAAAIDW
 fY
 fiPAwnU
@@ -2929,6 +2997,7 @@ oULF
 oxbR
 oxKLJCQkajUYlcBrZV
 oiYAAAComF
+oder
 eXr
 enuoOwN
 eXl
@@ -3168,6 +3237,9 @@ einen
 entspricht
 existiert
 ein
+entwerfen
+etc
+eine
 Pv
 Pt
 Px
@@ -3306,6 +3378,15 @@ PNhMDg
 PiNRkXl
 Prämisse
 Primzahl
+Projektidee
+Prototypen
+Prototyp
+Pappe
+Punkte
+Pfade
+Projektleiter
+Pfriem
+Produktion
 vp
 vSq
 vHpG
@@ -3483,6 +3564,10 @@ vFt
 vLyVALArel
 vXvZbaMMwwDcOfiU
 von
+vlt
+verschiedene
+verlieren
+verschiedenen
 yf
 yM
 yfGblme
@@ -4160,6 +4245,8 @@ Lr
 LlzZUtycrIM
 LHj
 LiyLCtrZtXqavvxkyc
+Layout
+Life
 ztYkNls
 zRzjhId
 zPUmVydSWO
@@ -4251,6 +4338,9 @@ zqZxYAqkXUBAAAM
 zAFA
 zC
 zeigen
+zu
+zufällige
+zum
 gNHq
 gE
 gyz
@@ -4395,6 +4485,7 @@ khcuXLFsmZy
 kYnTZPyCD
 ku
 keine
+können
 Vtdxbif
 Vuues
 VqEtV
@@ -4536,6 +4627,7 @@ Vledbr
 Vv
 VWWJWnSqNX
 Vmo
+Verschiedene
 UlhUXFBYdL
 UbeaeKT
 UC
@@ -4837,6 +4929,7 @@ urHgG
 uTESVsoKyporwCqLnqQENwRgkvIxWQLrMoOuIJkmUUUVWmd
 uFh
 und
+um
 qqrq
 qKigq
 qYLCouv
@@ -5123,6 +5216,8 @@ aus
 auf
 aber
 antisymmetrisch
+ausgeben
+an
 hxm
 hpig
 hyuj
@@ -5201,6 +5296,7 @@ hHjx
 hs
 hNPqgRO
 hYaDY
+haben
 wN
 wYjoPXbfqyD
 wLTUeUdW
@@ -5271,6 +5367,7 @@ wGttHz
 wVxMAAADgvDZu
 wZvh
 wenn
+würfeln
 ZKnWKv
 ZXYBouKS
 ZLTWbLli
@@ -5397,6 +5494,8 @@ ZsyYn
 ZkZKQI
 ZWlZVbdRoNP
 ZgFgPkgagIAAAAAACCQ
+Zielgruppenforschung
+Ziel
 jIRYn
 jswqgRup
 jEAdLraozSbLaxBYKALDZ
