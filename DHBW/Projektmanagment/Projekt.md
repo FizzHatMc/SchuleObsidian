@@ -64,3 +64,7 @@ Projektmanagement Seite 1
 ○ Name für das Spiel
 ○ (Finden von Investoren )
 Projektmanagement Seite 2
+
+
+
+Start -> Grundlegende Idee (mit dem Auftraggeber teilen) -> Erste Designs (Auftraggeber teilen) -> Erste Spiel simulation über Software (Auftraggeber teilen) -> Erster Prototyp (Auftraggeber teilen) -> Vollendetes Produkt (Auftraggeber teilen)
