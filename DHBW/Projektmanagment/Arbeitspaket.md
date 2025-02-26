@@ -1,5 +1,7 @@
 3D Druck
 
+![[Pasted image 20250226133641.png]]
+
 | Bezeichnung                       | Komponente                                                                                                                                                     |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Verantwortlich                    | Marcel                                                                                                                                                         |
@@ -10,4 +12,4 @@
 | Ressourcenanforderung             | Person mit 3D Druck erfahrung                                                                                                                                  |
 | Aufwand                           | 0.5-1 Arbeitstag pro Itteration                                                                                                                                |
 | Dauer                             | Abhängig Itterationen                                                                                                                                          |
-| Kosten                            | 1500-2000 Euro                                                                                                                                                 |
+| Kosten                            | 1500-2000 Euro (Falls Drucker gekauft wird)                                                                                                                    |
