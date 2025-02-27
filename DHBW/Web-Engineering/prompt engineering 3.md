@@ -15,6 +15,16 @@ Es soll Rückmeldung geben beim Drag&Drop (Highlighting).
 Das layout/Design soll Modern und Responsive sein.
 Achte darauf das der Support für Mobile geräte gewährt ist und das Layout automatisch angepasst wird.
 
+Füge einen Knopf hinzu um Dark mode an und aus zuschalten.
 
+Achte darauf das das Design ansprechend ist
+
+Nutze 3 Dateien, eine HTML, eine CSS, eine JavaScript.
+
+Nutze auch ein Modernes design für die Erstellung der Karten
 Gehe sicher das alle meine anforderungen beachtet werden.
+
+
+
+
 
