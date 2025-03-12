@@ -24,3 +24,27 @@ In einer Funktionalen Organisation wird das Unternehmen in "funktionen" Untertei
 
 2.
 a)
+Ökonomische Faktoren, Politisiche Faktoren, Gesellschaftliche Faktoren.
+z.b. 
+Neuer Motor standard der effizienter oder billiger ist
+Neue Regelungen mit diesel verbot z.b.
+Käufer wollen eher E-Autos
+
+b)
+Ein Marktorientiertes Unternehmen fokusiert sich darauf was die Kunden möchten und diese so zufrieden wie möglich zu stellen.
+
+c)
+Mitarbeiter gespräche, Lob, Anerkennung
+
+3.
+a)
+GbR
+
+OHG
+
+KG
+
+GmbH (Gemeinschaft mit beschränkter Haftung):
+	Personen Haften nicht mit mit Privatvermögen
+
+AG
