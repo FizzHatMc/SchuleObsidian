@@ -38,17 +38,46 @@ Mitarbeiter gespräche, Lob, Anerkennung
 
 3.
 a)
-GbR (Gesellschaft bürgerlichen Rechts)
+GbR (Gesellschaft bürgerlichen Rechts):
 	Nur unter bestimmten Bedingungen Rechtsfähig.
 	Gesellschafter haften unbeschränkt und gesamtschuldnerisch
 
-OHG (Offene Handelsgesellschaft)
+OHG (Offene Handelsgesellschaft):
 	Die OHG ist eine Rechtsfähige Personengesellschaft
-	
+	Die Gesellschafter haften unbeschränkt und gesamtschuldnerisch
 
-KG (Kommanditgesellschaft)
+KG (Kommanditgesellschaft):
+	KG ist eine Rechtsfähige Personengesellschaft
+	Komplementäre haften persönlich unbeschränkt
+	Kommandististen haften nur mit Einlagen nicht mit Privatvermögen
 
 GmbH (Gemeinschaft mit beschränkter Haftung):
-	Personen Haften nicht mit mit Privatvermögen
+	GmbH ist eine juristische Person und damit rechtsfähig
+	Gesellschafter Haften grundlegend nicht mit mit Privatvermögen
 
-AG (Aktiengesellschaft)
+AG (Aktiengesellschaft):
+	AG ist eine juristische Person und Rechtsfähig
+	Aktionäre haften nicht Persönlich sondern nur mit Einlagen.
+
+b)
+UG:
+Benötigt kein Mindestkapital, hat eine Beschränkte Haftung und möglich später in eine GmbH zu ändern.
+
+Eine UG kann möglicherweise als weniger vertrauenswürdig als eine GmbH gesehen werden und benötigt eine Notarieller Gesellschaftsvertrag 
+
+
+4.
+
+
+| I. Anlagenvermögen<br>        | Kosten |
+| ----------------------------- | ------ |
+| 1. Gebäude und Grundstücke    | 50.000 |
+| 2. Maschinen                  |        |
+| _Druckmaschine                | 4.000  |
+| 3. Fuhrpark                   | 0      |
+| 4. Geschäftsaustattung        |        |
+| _PCs und Laptops              | 3.900  |
+| _Chefsessel und Schreibtische | 3.200  |
+|                               |        |
+| 2. Am                         |        |
+
