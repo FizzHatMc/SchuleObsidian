@@ -38,13 +38,17 @@ Mitarbeiter gespräche, Lob, Anerkennung
 
 3.
 a)
-GbR
+GbR (Gesellschaft bürgerlichen Rechts)
+	Nur unter bestimmten Bedingungen Rechtsfähig.
+	Gesellschafter haften unbeschränkt und gesamtschuldnerisch
 
-OHG
+OHG (Offene Handelsgesellschaft)
+	Die OHG ist eine Rechtsfähige Personengesellschaft
+	
 
-KG
+KG (Kommanditgesellschaft)
 
 GmbH (Gemeinschaft mit beschränkter Haftung):
 	Personen Haften nicht mit mit Privatvermögen
 
-AG
+AG (Aktiengesellschaft)
