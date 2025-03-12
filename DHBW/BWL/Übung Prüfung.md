@@ -47,11 +47,11 @@ Haftet mit Privatvermögen
 5.
 
 a)
-Fix kosten: 
+Fix kosten: -> Unabhängig von den Produkten, bleiben über längeren Zeitraum konstant
 Miete, Gehälter
 
-Variable Kosten:
-Material, 
+Variable Kosten: -> Abhängig von den Produkten
+Material, (Steuern)
 
 b)
 Einzelkosten
