@@ -168,3 +168,25 @@ EinzelKosten sind Kosten, die direkt dem entsprechenden Kostenträger (Kostentr�
 Gemeinkosten sind Kosten, die gemeinsam für mehrere Kostenträger (Kostenträgergemeinkosten) oder gemeinsam für mehrere Kostenstellen (Kostenstellengemeinkosten) entstehen und daher nicht direkt verrechnet werden können.
 
 c)
+Kostenartenrechnung (KAR)
+Kostenstellenrechung (KSR)
+Kostenträgerrechnung (KTR)
+
+1. Welche kosten haben wir
+2. Die kostenträger gemeinkosten den kostenstellen zuordnen
+3. Den Kostenträger zuordnen
+
+6
+a)
+Eigenfinanzierung durch einbehaltenen Gewinn
+Aufnahme neuer Gesellschafter oder Investoren
+Aufnahme eines Bankdarlehens oder Förderkredits
+Leasing von Maschinen oder Fahrzeugen oder Factoring, verkauf von Forderungen an eine Factoring-Gesellschaft
+
+b)
+Die **Eigenkapitalrentabilität** gibt an, wie profitabel das eingesetzte Eigenkapital ist. Sie zeigt, welchen **Gewinn** ein Unternehmen im Verhältnis zum Eigenkapital erwirtschaftet.
+
+
+$$
+Eigenkapitalrentabilität=\frac{Eigenkapital}{Jahresgewinn}​×100
+$$
